@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "severljla.aternos.me",
+    "ip": "severljla.aternos.me:20519",
     "port": 20519,
     "version": "",
     "try-creative": false
