@@ -9,7 +9,7 @@
     "ip": "severljla.aternos.me",
     "port": 20519,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
