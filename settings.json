@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "severljla.aternos.me",
-    "port": 20519,
-    "version": "1.21.11",
+    "ip": "Pandaauge1.aternos.me",
+    "port": 51985,
+    "version": "1.21.1",
     "try-creative": true
   },
   "position": {
